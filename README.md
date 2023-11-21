@@ -7,4 +7,4 @@ The article pertains to enterprise collaboration, and some of the code is curren
   Weibo https://github.com/zhao-tong/Graph-Anomaly-Loss  
   Flickr http://snap.stanford.edu  
   Amazon/Cora https://github.com/pygod-team/data  
-  Data preprocessing https://github.com/pygod- team/pygod/tree/main/benchmark
+  Data preprocessing https://github.com/pygod-team/pygod/tree/main/benchmark
