@@ -1,6 +1,6 @@
-# Coming soon
+# Coming on Dec 17th.
 
-The article pertains to enterprise collaboration, and some of the code is currently undergoing the patent application process.   Once the patent application is finalized, the code will be made publicly available in the first quarter of 2024.
+Currently, the major code is under cleaning and annotations; according to the requirement of ICDE, it will be open-sourced within two weeks from the DDL on Dec 3rd.
 
 # The related public dataset is available
   OTC https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html  
