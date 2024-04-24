@@ -1,4 +1,4 @@
-# The related public dataset is available
+# Coming Soon! The related public dataset is available
   OTC https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html  
   Weibo https://github.com/zhao-tong/Graph-Anomaly-Loss  
   Flickr http://snap.stanford.edu  
